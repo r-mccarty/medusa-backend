@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gcloud compute ssh:*)",
+      "Bash(gcloud config get-value:*)",
+      "Bash(gcloud compute instances:*)",
+      "Bash(gcloud compute scp:*)",
+      "WebSearch",
+      "WebFetch(domain:docs.medusajs.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

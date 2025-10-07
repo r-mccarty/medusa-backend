@@ -1,0 +1,1 @@
+gcloud compute ssh --zone "us-central1-c" "instance-20251003-095148" --project "opticworks"
